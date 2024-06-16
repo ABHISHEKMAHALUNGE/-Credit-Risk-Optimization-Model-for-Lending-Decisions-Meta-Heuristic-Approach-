@@ -1,0 +1,2 @@
+# -Credit-Risk-Optimization-Model-for-Lending-Decisions-Meta-Heuristic-Approach-
+This was a research project carried under the auspics of Prof. Akhilesh Kumar (Department of Industrial Engineering &amp; Management) . The main crux of the project revolved around finding optimal heuristic algorithms and amalgamating meta heuristic especially evolutionary algorithms to deteremine a set of eligible customers for loan approval.
