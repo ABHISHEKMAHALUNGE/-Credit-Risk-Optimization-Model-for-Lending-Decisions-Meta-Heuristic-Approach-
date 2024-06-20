@@ -85,5 +85,7 @@ Contributions are welcome! If you have any ideas or improvements, please follow 
 ## Acknowledgements
 
 This project was conducted under the guidance and support of Prof. Akhilesh Kumar from the Department of Industrial Engineering & Management. Special thanks to all contributors and supporters of this research.
+Metawa, N., Hassan, MK., Elhoseny, M. (2017) Genetic algorithm based model for optimizing bank lending decisions [Journal: Expert Systems with Application Expert Systems With Applications 80 (2017) 75–82
+J. Kennedy and R. Eberhart, "Particle swarm optimization," Proceedings of ICNN'95 - International Conference on Neural Networks, Perth, WA, Australia, 1995, pp. 1942-1948 vol.4, doi: 10.1109/ICNN.1995.488968.
+![image](https://github.com/ABHISHEKMAHALUNGE/-Credit-Risk-Optimization-Model-for-Lending-Decisions-Meta-Heuristic-Approach-/assets/60666045/6a88372c-2594-4907-b015-0b16f1276e8c)
 
-This structure covers all the essential aspects of your project, providing clear instructions and comprehensive information for anyone interested in understanding, using, or contributing to your work.
