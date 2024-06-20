@@ -1,6 +1,6 @@
 """
 						SOLUTION TO BANK-LENDING PROBLEM WITH GENETIC ALGORITHM IMPLEMENTATION
-						Author : Mintu Agarwal
+						Author : Abhishek Prakash Mahalunge
 """
 
 import random
