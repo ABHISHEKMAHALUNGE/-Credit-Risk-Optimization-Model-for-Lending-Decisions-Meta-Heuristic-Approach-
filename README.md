@@ -14,7 +14,7 @@ This repository contains the code and resources for the research project focused
 
 ## Introduction
 
-The main objective of this project is to develop optimal heuristic algorithms and integrate meta-heuristic approaches, particularly evolutionary algorithms, to identify eligible customers for loan approval. By leveraging these advanced techniques, the model aims to enhance the accuracy and efficiency of credit risk assessment.
+The main objective of this project is to develop optimal heuristic algorithms and integrate meta-heuristic approaches, particularly evolutionary algorithms, to identify eligible customers for loan approval in a credit crunch environment. Credit crunch is a condition where bank is catered with limited amounts of funds and is demanded with hefty loan approvals at the same time. By leveraging these advanced techniques, the model aims to enhance the accuracy and efficiency of credit risk assessment.
 
 ## Features
 
